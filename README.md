@@ -3,7 +3,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-My name is kubilay i have been learning software for 3 years, i am trying to improve myself, i have done basic projects, 2d games so far and i am currently developing myself in web frameworks
+My name is Kubilay i have been learning software for 3 years, i am trying to improve myself, i have done basic projects, 2d games so far and i am currently developing myself in web frameworks
 
 <!--
 **KubilayTekin27/KubilayTekin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
